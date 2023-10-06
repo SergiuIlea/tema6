@@ -1,6 +1,0 @@
-org\fasttrack\model\Transaction.class
-org\fasttrack\model\Type.class
-org\fasttrack\Main.class
-org\fasttrack\repository\TransactionRepository.class
-org\fasttrack\controller\TransactionController.class
-org\fasttrack\service\TransactionService.class
